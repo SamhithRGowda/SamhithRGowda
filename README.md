@@ -9,7 +9,7 @@ Exploring AI, analytics, and software engineering through real-world projects.
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixel-cyberpunk.gif">
 
-## 🚀 About Me
+ 🚀 About Me
 
 - 🎓 Computer Science student at PES University
 - 🤖 Building Vigil, an AI agent observability and monitoring platform through Venture Lab
