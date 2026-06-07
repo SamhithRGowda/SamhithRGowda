@@ -20,6 +20,7 @@ Exploring AI, analytics, and software engineering through real-world projects.
 - 📈 Achieved 95.6 percentile in JEE Main
 - 👥 Former Vice Captain of my school house, developing leadership and team management skills
 - 📫 Reach me at samhithrgowda18@gmail.com
+- 🌐 Portfolio: https://samhithrgowda.github.io/portfolio/
 
 </td>
 </tr>
@@ -40,6 +41,10 @@ Exploring AI, analytics, and software engineering through real-world projects.
 
 <a href="mailto:samhithrgowda18@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://samhithrgowda.github.io/portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 </p>
 
