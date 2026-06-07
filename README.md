@@ -6,9 +6,6 @@
 Exploring AI, analytics, and software engineering through real-world projects.
 </p>
 
-<table>
-<tr>
-<td width="60%">
 
 ## 🚀 About Me
 
@@ -23,9 +20,6 @@ Exploring AI, analytics, and software engineering through real-world projects.
 * 👥 Former Vice Captain of my school house, developing leadership and team management skills
 * 📫 Reach me at [samhithrgowda18@gmail.com]
 
-</td>
-
-<td width="40%">
 
 <img src="https://media.tenor.com/3bTxZ4HdrysAAAAC/pixel-cyberpunk.gif" width="100%">
 
