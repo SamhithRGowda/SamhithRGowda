@@ -17,7 +17,6 @@ Exploring AI, analytics, and software engineering through real-world projects.
 - 📊 Interested in Data Analytics, Artificial Intelligence, and Software Engineering
 - 🐍 Working with Python, SQL, machine learning, and AI systems
 - 🚀 Exploring product development and startup innovation
-- 🌱 Continuously improving my problem-solving and engineering skills
 - 📈 Achieved 95.6 percentile in JEE Main
 - 👥 Former Vice Captain of my school house, developing leadership and team management skills
 - 📫 Reach me at samhithrgowda18@gmail.com
